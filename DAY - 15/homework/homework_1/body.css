@@ -1,0 +1,62 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.body_hr{
+  border: 1px solid black;
+  margin-left: 600px
+}
+.summary{
+  margin-top: -760px;
+  margin-left: 600px
+}
+
+.summary_description{
+  margin-left: 600px;
+  margin-top: 50px
+
+}
+
+.skills{
+  margin-left: 600px;
+  margin-top: 30px;
+}
+
+.skills_description{
+  margin-left: 600px;
+  margin-top: 50px
+}
+
+.experience{
+  margin-left: 600px;
+  margin-top: 30px;
+}
+
+.experience_description{
+  margin-left: 620px;
+  margin-top: 50px
+}
+
+.education{
+  margin-left: 600px;
+  margin-top: 40px;
+}
+
+.education_description{
+  margin-left: 600px;
+  margin-top: 30px;
+}
+
+.certifications{
+  margin-left: 600px;
+  margin-top: 30px;
+}
+
+.certification_description{
+  margin-left: 620px;
+  margin-top: 40px
+}
